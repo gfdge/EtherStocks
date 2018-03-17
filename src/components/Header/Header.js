@@ -65,10 +65,8 @@ class Header extends React.Component {
               </h1>
              
             <p className={s.bannerDesc}>
-              We are the worldwide stock exchange. 
-              A market where anyone from anywhere can invest in any business 
-              worldwide using cryptocurrencies (BTC,ETH,NXT, and others)
-              or fiat money.
+              Decentralized game of stocks on the ethereum blockchain.  
+              10% of every buy/sell gets split and paid out to all share holders.
             </p>
           </div>
         </div>
